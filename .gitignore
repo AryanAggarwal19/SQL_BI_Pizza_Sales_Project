@@ -1,0 +1,11 @@
+# Ignore Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+
+# # Ignore the .gitignore file
+# .gitignore
+
+# Ignore specific folders
+dash-images/
