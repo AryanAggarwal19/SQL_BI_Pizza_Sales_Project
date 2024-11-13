@@ -14,7 +14,7 @@ Below are screenshots of the key visualizations and insights presented in the da
   ![Home](dash-images/Home.png)
 
 - **Best Sellers And Worst Sellers Pizzas**  
-  ![Weekly Trend Screenshot](dash-images/Best%20Sellers%20&%20Worst%20Sellers.png)
+  ![Top & Bottom sellers](dash-images/Best%20Sellers%20&%20Worst%20Sellers.png)
 
 ---
 
