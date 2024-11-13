@@ -7,7 +7,7 @@
 *.csv
 
 # Ignore the .gitignore file itself
-.gitignore  
+!.gitignore  
 
 # Ignore specific folders
 dash-images/
