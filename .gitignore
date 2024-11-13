@@ -2,10 +2,12 @@
 *.xls
 *.xlsx
 *.xlsm
+
+# Ignore CSV files
 *.csv
 
-# # Ignore the .gitignore file
-# .gitignore
+# Ignore the .gitignore file itself
+!.gitignore  
 
 # Ignore specific folders
 dash-images/
